@@ -1,0 +1,11 @@
+request_id,request_date,cash_balance,inventory_value,response,request_type,worker_name
+1,01/04/2025,45200.5,4925.1,Quote generated and accepted for 500 units of A4 paper with a 5% bulk discount. Estimated delivery within 4 days.,quote,quote_agent
+2,03/04/2025,45480.5,4880.1,Order for 300 paper cups confirmed from available stock. Delivery within 1–2 business days.,sale,sales_agent
+3,05/04/2025,45480.5,4880.1,Customer asked only about inventory for colored paper; availability and reorder recommendation explained. No sale recorded.,inventory,inventory_agent
+4,06/04/2025,45980.5,4800.1,Large quote for 1500 glossy sheets priced with 10% bulk discount. Customer accepted and order recorded; extended delivery window explained.,quote,quote_agent
+5,07/04/2025,45980.5,4800.1,Requested quantity of kraft paper exceeds current stock. Partial fulfillment and future shipment options described; no sale completed.,sale,sales_agent
+6,08/04/2025,46230.5,4765.1,Quote for 200 invitation cards generated at standard price; accepted and scheduled for delivery in 3 days.,quote,quote_agent
+7,09/04/2025,46230.5,4765.1,Inventory check for eco‑friendly paper only; detailed stock levels and reorder suggestion provided. No transaction created.,inventory,inventory_agent
+8,10/04/2025,46410.5,4720.1,Confirmed sale of 100 large poster sheets using existing stock; same‑week delivery promised.,sale,sales_agent
+9,11/04/2025,46410.5,4720.1,Requested combination of glitter and decorative paper not fully in stock; quote provided but customer informed about limits and lead time. No sale booked yet.,quote,quote_agent
+10,12/04/2025,46810.5,4680.1,"Finalized order for mixed event supplies (napkins, plates, cups) with standard pricing. Order recorded and next‑day dispatch confirmed.",sale,sales_agent
